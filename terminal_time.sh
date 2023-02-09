@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "welcome bhavani"
+echo "`welcome whoami`"
 echo "Terminal time $(date)"
 
 
